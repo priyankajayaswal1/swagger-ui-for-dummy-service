@@ -1,6 +1,5 @@
 {
   "swagger": "2.0",
-  "host": "https://aysriva-bb-test.farmbeats-dogfood.azure.net/",
   "info": {
     "title": "Azure AgFoodPlatform Data Plane Service",
     "description": "APIs documentation for Azure AgPlatform DataPlane Service.",
@@ -19848,5 +19847,15 @@
     {
       "Bearer": [ ]
     }
+  ],
+  "host": "https://aysriva-bb-test.farmbeats-dogfood.azure.net/",
+  "schemes": [
+    "https"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "consumes": [
+    "application/json"
   ]
 }
