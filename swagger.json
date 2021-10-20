@@ -19848,7 +19848,7 @@
       "Bearer": [ ]
     }
   ],
-  "host": "https://aysriva-bb-test.farmbeats-dogfood.azure.net/",
+  "host": "aysriva-bb-test.farmbeats-dogfood.azure.net/",
   "schemes": [
     "https"
   ],
