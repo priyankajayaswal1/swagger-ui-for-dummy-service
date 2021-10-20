@@ -211,7 +211,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -275,7 +276,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -324,7 +326,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -559,7 +562,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -616,7 +620,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -671,7 +676,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -737,7 +743,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -885,7 +892,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -942,7 +950,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -997,7 +1006,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "formData",
@@ -1136,7 +1146,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -1188,7 +1199,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -1349,7 +1361,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -1393,7 +1406,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -1465,7 +1479,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -1514,7 +1529,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -1681,7 +1697,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -1732,7 +1749,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -1800,7 +1818,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -1866,7 +1885,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -1918,7 +1938,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -1983,7 +2004,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2117,7 +2139,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2167,7 +2190,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2215,7 +2239,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -2274,7 +2299,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2425,7 +2451,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2475,7 +2502,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2523,7 +2551,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -2582,7 +2611,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2599,6 +2629,298 @@
         "x-ms-examples": {
           "CropVarieties_Delete": {
             "$ref": "./examples/CropVarieties_Delete.json"
+          }
+        }
+      }
+    },
+    "/sensor-partners/{sensorPartnerId}/device-data-models/{deviceDataModelId}": {
+      "patch": {
+        "tags": [
+          "DeviceDataModel"
+        ],
+        "description": "Create a device data model entity.",
+        "operationId": "DeviceDataModel_CreateOrUpdate",
+        "consumes": [
+          "application/merge-patch+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "deviceDataModelId",
+            "description": "Id of the device data model.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "sensorPartnerId",
+            "description": "Id of the sensor partner.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Device data model object details.",
+            "schema": {
+              "$ref": "#/definitions/DeviceDataModel"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/DeviceDataModel"
+            }
+          },
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/DeviceDataModel"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "DeviceDataModel_CreateOrUpdate": {
+            "$ref": "./examples/DeviceDataModel_CreateOrUpdate.json"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "DeviceDataModel"
+        ],
+        "description": "Gets a device data model entity.",
+        "operationId": "DeviceDataModel_Get",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "sensorPartnerId",
+            "description": "Id of the sensor partner.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "deviceDataModelId",
+            "description": "Id of the device data model resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Device"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "DeviceDataModel_Get": {
+            "$ref": "./examples/DeviceDataModel_Get.json"
+          }
+        }
+      }
+    },
+    "/sensor-partners/{sensorPartnerId}/devices/{deviceId}": {
+      "patch": {
+        "tags": [
+          "DeviceManagement"
+        ],
+        "description": "Create a device entity.",
+        "operationId": "DeviceManagement_CreateDevice",
+        "consumes": [
+          "application/merge-patch+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "deviceId",
+            "description": "Id of the device resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "sensorPartnerId",
+            "description": "Id of the sensor partner.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Device object details.",
+            "schema": {
+              "$ref": "#/definitions/Device"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Device"
+            }
+          },
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Device"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "DeviceManagement_CreateDevice": {
+            "$ref": "./examples/DeviceManagement_CreateDevice.json"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "DeviceManagement"
+        ],
+        "description": "Gets a device entity.",
+        "operationId": "DeviceManagement_GetDevice",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "deviceId",
+            "description": "Id of the device resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "sensorPartnerId",
+            "description": "Id of the sensor partner.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Device"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "DeviceManagement_GetDevice": {
+            "$ref": "./examples/DeviceManagement_GetDevice.json"
+          }
+        }
+      }
+    },
+    "/events/johndeere/handler": {
+      "post": {
+        "tags": [
+          "Events"
+        ],
+        "description": "Callback endpoint to handle John Deere events.",
+        "operationId": "Events_HandleJohnDeere",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "event data object.",
+            "schema": {
+              "description": "event data object.",
+              "type": "object"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Success"
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "Events_HandleJohnDeere": {
+            "$ref": "./examples/Events_HandleJohnDeere.json"
           }
         }
       }
@@ -2703,7 +3025,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2753,7 +3076,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2801,7 +3125,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -2860,7 +3185,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2911,7 +3237,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -2960,7 +3287,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3010,7 +3338,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -3067,7 +3396,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3198,7 +3528,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3255,7 +3586,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3310,7 +3642,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -3376,7 +3709,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3497,7 +3831,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3561,7 +3896,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3610,7 +3946,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3751,7 +4088,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3808,7 +4146,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -3863,7 +4202,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -3929,7 +4269,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -4060,7 +4401,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -4124,7 +4466,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -4173,7 +4516,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -4464,7 +4808,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -4521,7 +4866,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -4576,7 +4922,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -4642,7 +4989,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -4923,7 +5271,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -4987,7 +5336,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5036,7 +5386,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5086,7 +5437,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -5140,7 +5492,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5296,7 +5649,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5319,6 +5673,330 @@
         "x-ms-examples": {
           "InsightAttachments_ListByFarmerIdModelIdAndResource": {
             "$ref": "./examples/InsightAttachments_ListByFarmerIdModelIdAndResource.json"
+          }
+        }
+      }
+    },
+    "/farmers/{farmerId}/models/{modelId}/resource-types/{resourceType}/resources/{resourceId}/insight-attachments/{insightAttachmentId}": {
+      "patch": {
+        "tags": [
+          "InsightAttachments"
+        ],
+        "description": "Creates or updates insight entity.",
+        "operationId": "InsightAttachments_CreateOrUpdate",
+        "consumes": [
+          "multipart/form-data"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "farmerId",
+            "description": "Id of the associated farmer.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "modelId",
+            "description": "Id of the associated model.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceType",
+            "description": "Resource type associated with the record.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceId",
+            "description": "Id of the associated resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "insightAttachmentId",
+            "description": "Id of the insight resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          },
+          {
+            "in": "formData",
+            "name": "file",
+            "description": "file.",
+            "type": "file",
+            "format": "binary"
+          },
+          {
+            "in": "formData",
+            "name": "InsightId",
+            "description": "InsightID for this InsightAttachment.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "ModelId",
+            "description": "ModelID for this InsightAttachment.",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "ResourceType",
+            "description": "Associated Resource type for this attachment.",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "ResourceId",
+            "description": "Associated Resource id for this attachment.",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "OriginalFileName",
+            "description": "Original File Name for this attachment.",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "FarmerId",
+            "description": "Farmer id for this attachment.",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "Id",
+            "description": "Unique id.",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "Status",
+            "description": "Status of the resource.",
+            "type": "string",
+            "maxLength": 100,
+            "minLength": 0
+          },
+          {
+            "in": "formData",
+            "name": "CreatedDateTime",
+            "description": "Date when resource was created.",
+            "type": "string",
+            "format": "date-time"
+          },
+          {
+            "in": "formData",
+            "name": "ModifiedDateTime",
+            "description": "Date when resource was last modified.",
+            "type": "string",
+            "format": "date-time"
+          },
+          {
+            "in": "formData",
+            "name": "Name",
+            "description": "Name to identify resource.",
+            "type": "string",
+            "maxLength": 100,
+            "minLength": 0
+          },
+          {
+            "in": "formData",
+            "name": "Description",
+            "description": "Textual description of resource.",
+            "type": "string",
+            "maxLength": 500,
+            "minLength": 0
+          },
+          {
+            "in": "formData",
+            "name": "ETag",
+            "description": "The ETag value to implement optimistic concurrency.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/InsightAttachment"
+            }
+          },
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/InsightAttachment"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "InsightAttachments_CreateOrUpdate": {
+            "$ref": "./examples/InsightAttachments_CreateOrUpdate.json"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "InsightAttachments"
+        ],
+        "description": "Gets a specified insight resource under a particular farmer.",
+        "operationId": "InsightAttachments_Get",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "farmerId",
+            "description": "Id of the associated farmer.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "modelId",
+            "description": "Id of the associated model.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceType",
+            "description": "Resource type associated with the record.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceId",
+            "description": "Id of the associated resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "insightAttachmentId",
+            "description": "Id of the insight attachment resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/InsightAttachment"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "InsightAttachments_Get": {
+            "$ref": "./examples/InsightAttachments_Get.json"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "InsightAttachments"
+        ],
+        "description": "Deletes a specified insight resource.",
+        "operationId": "InsightAttachments_Delete",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "farmerId",
+            "description": "Id of the associated farmer.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "modelId",
+            "description": "Id of the associated model.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceType",
+            "description": "Resource type associated with the record.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceId",
+            "description": "Id of the associated resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "insightAttachmentId",
+            "description": "Id of the insight attachment resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Success"
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "InsightAttachments_Delete": {
+            "$ref": "./examples/InsightAttachments_Delete.json"
           }
         }
       }
@@ -5375,7 +6053,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5566,7 +6245,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5589,6 +6269,244 @@
         "x-ms-examples": {
           "Insights_ListByFarmerIdModelIdAndResource": {
             "$ref": "./examples/Insights_ListByFarmerIdModelIdAndResource.json"
+          }
+        }
+      }
+    },
+    "/farmers/{farmerId}/models/{modelId}/resource-types/{resourceType}/resources/{resourceId}/insights/{insightId}": {
+      "patch": {
+        "tags": [
+          "Insights"
+        ],
+        "description": "Creates or updates insight entity.",
+        "operationId": "Insights_CreateOrUpdate",
+        "consumes": [
+          "application/merge-patch+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "farmerId",
+            "description": "Id of the associated farmer.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "modelId",
+            "description": "Id of the associated model.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceType",
+            "description": "Resource type associated with the record.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceId",
+            "description": "Id of the associated resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "insightId",
+            "description": "Id of the insight resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Insight data.",
+            "schema": {
+              "$ref": "#/definitions/Insight"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Insight"
+            }
+          },
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Insight"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "Insights_CreateOrUpdate": {
+            "$ref": "./examples/Insights_CreateOrUpdate.json"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Insights"
+        ],
+        "description": "Gets a specified insight resource under a particular farmer.",
+        "operationId": "Insights_Get",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "farmerId",
+            "description": "Id of the associated farmer.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "modelId",
+            "description": "Id of the associated model.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceType",
+            "description": "Resource type associated with the record.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceId",
+            "description": "Id of the associated resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "insightId",
+            "description": "Id of the insight resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Insight"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "Insights_Get": {
+            "$ref": "./examples/Insights_Get.json"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Insights"
+        ],
+        "description": "Deletes a specified insight resource.",
+        "operationId": "Insights_Delete",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "farmerId",
+            "description": "Id of the associated farmer.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "modelId",
+            "description": "Id of the associated model.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceType",
+            "description": "Resource type associated with the record.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "resourceId",
+            "description": "Id of the associated resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "insightId",
+            "description": "Id of the insight resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Success"
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "Insights_Delete": {
+            "$ref": "./examples/Insights_Delete.json"
           }
         }
       }
@@ -5651,7 +6569,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5700,7 +6619,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5881,7 +6801,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5938,7 +6859,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -5993,7 +6915,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -6059,7 +6982,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -6230,7 +7154,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -6280,7 +7205,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -6339,7 +7265,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -6393,7 +7320,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -6450,7 +7378,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -6607,7 +7536,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -6664,7 +7594,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -6719,7 +7650,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -6785,7 +7717,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -6932,7 +7865,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -6955,6 +7889,54 @@
         "x-ms-examples": {
           "NutrientAnalyses_List": {
             "$ref": "./examples/NutrientAnalyses_List.json"
+          }
+        }
+      }
+    },
+    "/oauth/callback": {
+      "get": {
+        "tags": [
+          "OAuthCallbacks"
+        ],
+        "description": "Handles oauth callback and redirects to user redirect link provided.",
+        "operationId": "OAuthCallbacks_OAuthCallback",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "code",
+            "description": "Authorization code used to fetch tokens.",
+            "required": true,
+            "type": "string",
+            "maxLength": 200,
+            "minLength": 0
+          },
+          {
+            "in": "query",
+            "name": "state",
+            "description": "State used to validate the request.",
+            "required": true,
+            "type": "string",
+            "maxLength": 200,
+            "minLength": 0
+          }
+        ],
+        "responses": {
+          "302": {
+            "description": "Redirects with following query parameters in the user_redirect_url(provided in oauth config api call).\r\n           status: \"Success\" or \"Failure\".\r\n           state: optional string (user_redirect_state provided in oauth config api call).\r\n           message: optional string.\r\n           errorCode: optional string in case of \"Failure\", one of [UnknownErrorOccured, FarmerResourceNotFound, FarmerFetchFailed, AuthProviderNotFound, AuthProviderFetchFailed, InvalidAuthProviderError, InvalidGrantError, AuthTokenFetchFailed, TokenEndPointFetchFailed]."
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "OAuthCallbacks_OAuthCallback": {
+            "$ref": "./examples/OAuthCallbacks_OAuthCallback.json"
           }
         }
       }
@@ -7059,7 +8041,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7109,7 +8092,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7157,7 +8141,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -7216,7 +8201,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7260,7 +8246,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7312,7 +8299,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7426,7 +8414,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7472,7 +8461,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -7541,7 +8531,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7590,7 +8581,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7839,7 +8831,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7896,7 +8889,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -7951,7 +8945,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -8017,7 +9012,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -8256,7 +9252,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -8320,7 +9317,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -8369,7 +9367,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -8540,7 +9539,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -8597,7 +9597,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -8652,7 +9653,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -8718,7 +9720,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -8879,7 +9882,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -8943,7 +9947,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -8992,7 +9997,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -9173,7 +10179,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -9230,7 +10237,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -9285,7 +10293,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -9351,7 +10360,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -9522,7 +10532,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -9572,7 +10583,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -9631,7 +10643,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -9816,7 +10829,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -9873,7 +10887,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -9928,7 +10943,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -9994,7 +11010,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -10165,7 +11182,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -10215,7 +11233,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -10274,7 +11293,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -10428,7 +11448,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -10479,7 +11500,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -10530,7 +11552,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -10587,7 +11610,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -10822,7 +11846,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -10879,7 +11904,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -10934,7 +11960,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -11000,7 +12027,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -11225,7 +12253,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -11289,7 +12318,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -11338,7 +12368,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -11501,7 +12532,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -11551,7 +12583,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -11599,7 +12632,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -11658,7 +12692,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -11675,6 +12710,361 @@
         "x-ms-examples": {
           "Seasons_Delete": {
             "$ref": "./examples/Seasons_Delete.json"
+          }
+        }
+      }
+    },
+    "/sensor-partners/{sensorPartnerId}/sensor-data-models/{sensorDataModelId}": {
+      "patch": {
+        "tags": [
+          "SensorDataModel"
+        ],
+        "description": "Create a sensor data model entity.",
+        "operationId": "SensorDataModel_CreateOrUpdate",
+        "consumes": [
+          "application/merge-patch+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "sensorDataModelId",
+            "description": "Id of the sensor data model.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "sensorPartnerId",
+            "description": "Id of the sensor partner.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Sensor data model object details.",
+            "schema": {
+              "$ref": "#/definitions/SensorDataModel"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/SensorDataModel"
+            }
+          },
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/SensorDataModel"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "SensorDataModel_CreateOrUpdate": {
+            "$ref": "./examples/SensorDataModel_CreateOrUpdate.json"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "SensorDataModel"
+        ],
+        "description": "Gets a sensor data model entity.",
+        "operationId": "SensorDataModel_Get",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "sensorPartnerId",
+            "description": "Id of the sensor partner.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "sensorDataModelId",
+            "description": "Id of the sensor data model resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Sensor"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "SensorDataModel_Get": {
+            "$ref": "./examples/SensorDataModel_Get.json"
+          }
+        }
+      }
+    },
+    "/sensor-partners/{sensorPartnerId}/sensors/{sensorId}": {
+      "patch": {
+        "tags": [
+          "SensorManagement"
+        ],
+        "description": "Create a sensor entity.",
+        "operationId": "SensorManagement_CreateOrUpdate",
+        "consumes": [
+          "application/merge-patch+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "sensorId",
+            "description": "Id of the sensor resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "sensorPartnerId",
+            "description": "Id of the sensor partner.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Sensor object details.",
+            "schema": {
+              "$ref": "#/definitions/Sensor"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Sensor"
+            }
+          },
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Sensor"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "SensorManagement_CreateOrUpdate": {
+            "$ref": "./examples/SensorManagement_CreateOrUpdate.json"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "SensorManagement"
+        ],
+        "description": "Gets a sensor entity.",
+        "operationId": "SensorManagement_Get",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "sensorId",
+            "description": "Id of the sensor resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "sensorPartnerId",
+            "description": "Id of the sensor partner.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Sensor"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "SensorManagement_Get": {
+            "$ref": "./examples/SensorManagement_Get.json"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "SensorManagement"
+        ],
+        "description": "Deletes a sensor entity.",
+        "operationId": "SensorManagement_Delete",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "sensorId",
+            "description": "Id of the sensor resource.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "sensorPartnerId",
+            "description": "Id of the sensor partner.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Success"
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-examples": {
+          "SensorManagement_Delete": {
+            "$ref": "./examples/SensorManagement_Delete.json"
+          }
+        }
+      }
+    },
+    "/sensor-data": {
+      "post": {
+        "tags": [
+          "SensorTelemetry"
+        ],
+        "description": "Returns a paginated list of sensor events data.",
+        "operationId": "SensorTelemetry_List",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "api-version",
+            "description": "The requested API version",
+            "required": true,
+            "type": "string",
+            "default": "2021-07-31-preview"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Query filters.",
+            "schema": {
+              "$ref": "#/definitions/SensorTelemetryQuery"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/SensorTelemetryListResponse"
+            }
+          },
+          "default": {
+            "description": "Error",
+            "schema": {
+              "$ref": "#/definitions/ErrorResponse"
+            }
+          }
+        },
+        "x-ms-pageable": {
+          "nextLinkName": "nextLink"
+        },
+        "x-ms-examples": {
+          "SensorTelemetry_List": {
+            "$ref": "./examples/SensorTelemetry_List.json"
           }
         }
       }
@@ -11890,7 +13280,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -11947,7 +13338,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -12002,7 +13394,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -12068,7 +13461,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -12293,7 +13687,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -12357,7 +13752,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -12406,7 +13802,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -12516,7 +13913,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -12566,7 +13964,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -12614,7 +14013,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -12673,7 +14073,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -12721,7 +14122,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -12894,7 +14296,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -12951,7 +14354,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -13006,7 +14410,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           },
           {
             "in": "body",
@@ -13072,7 +14477,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -13223,7 +14629,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -13273,7 +14680,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
@@ -13332,7 +14740,8 @@
             "name": "api-version",
             "description": "The requested API version",
             "required": true,
-            "type": "string"
+            "type": "string",
+            "default": "2021-07-31-preview"
           }
         ],
         "responses": {
