@@ -20,3 +20,5 @@
 
 
 8. For present repo swagger file is: https://priyankajayaswal1.github.io/swagger-ui-for-dummy-service/
+
+9. Relevant reference to enable cors: https://github.com/Rob--W/cors-anywhere/issues/301
