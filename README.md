@@ -16,9 +16,11 @@
     
 6. Browse to the Swagger documentation at `https://{github-username}.github.io/{repository-name}/`.
 
-7. The example API specification used by this repository can be seen hosted at [https://peter-evans.github.io/swagger-github-pages](https://peter-evans.github.io/swagger-github-pages/).
+7. For present repo swagger file is: https://priyankajayaswal1.github.io/swagger-ui-for-dummy-service/
 
+8. For first time on making a request you might get 403. This is because you'd need to request for temporary access on the request url. 
+ - Go to the request uri as shown below and click on the "Request temporary access to the demo server" button, to temporarily restore the full functionality of CORS Anywhere for your client only.
+![Headers](/screenshots/request-uri-for-cors.png?raw=true)
 
-8. For present repo swagger file is: https://priyankajayaswal1.github.io/swagger-ui-for-dummy-service/
 
 9. Relevant reference to enable cors: https://github.com/Rob--W/cors-anywhere/issues/301
