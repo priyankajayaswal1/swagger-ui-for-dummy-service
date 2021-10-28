@@ -19,3 +19,4 @@
 7. The example API specification used by this repository can be seen hosted at [https://peter-evans.github.io/swagger-github-pages](https://peter-evans.github.io/swagger-github-pages/).
 
 
+8. For present repo swagger file is: https://priyankajayaswal1.github.io/swagger-ui-for-dummy-service/
