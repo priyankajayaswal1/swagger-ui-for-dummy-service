@@ -19848,7 +19848,8 @@
       "Bearer": [ ]
     }
   ],
-  "host": "aysriva-bb-test.farmbeats-dogfood.azure.net/",
+  "host": "cors-anywhere.herokuapp.com",
+  "basePath": "/https://prjayasw.farmbeats-dogfood.azure.net",
   "schemes": [
     "https"
   ],
